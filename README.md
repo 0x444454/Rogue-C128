@@ -2,7 +2,7 @@
 
 Ported from Classic Rogue 5.4.4: https://github.com/Davidslv/rogue.
 
-![screenshots](media/rogue_c128.png)
+![screenshots](media/rogue_c128_screenshot.png)
 
 ## Requirements
 
