@@ -25,7 +25,10 @@ Binaries are [here](release/)
 
 ### Items and enemies
 
-![screenshots](media/rogue_c128_symbols.png)
+<details>
+  <summary>Spoiler</summary>
+  <img src="media/rogue_c128_symbols.png" width="304" style="image-rendering: crisp-edges; image-rendering: pixelated;">
+</details>
 
 # LICENSE
 
