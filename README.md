@@ -1,6 +1,6 @@
 # Rogue for Commodore C128
 
-Ported from Classic Rogue 5.4.4: https://github.com/Davidslv/rogue.
+Ported and enhanced from Classic Rogue 5.4.4: https://github.com/Davidslv/rogue.
 
 ![screenshots](media/rogue_c128_screenshot.png)
 
