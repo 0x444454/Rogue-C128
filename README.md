@@ -23,6 +23,10 @@ Binaries are [here](release/)
 - Huge upgraded PETSCII and (optional) 8x8 lifelike icons ;-)
 - Full level map peek (for cheaters, won't tell you the secret key-combo).
 
+### Items and enemies
+
+![screenshots](media/rogue_c128_symbols.png)
+
 # LICENSE
 
 This project is licensed under a BSD-style license. See [LICENSE.TXT](release/LICENSE.TXT) for details.
