@@ -19,7 +19,9 @@ Binaries are [here](release/)
 - Classic Rogue 5.4.4 source code is patched to compile on [Oscar64](https://github.com/drmortalwombat/oscar64) targeting C128.  
 - Code and some data stay (barely !) in bank 0, while most strings and other structs are moved to bank 1.  
 - I/O routines are replaced with custom C128 versions.
-- Huge PETSCII and optional enhanced graphics upgrade ;-)
+- Full (optional) color modes.
+- Huge upgraded PETSCII and (optional) 8x8 "crystal clear" icons ;-)
+- Full level map peek (for cheaters).
 
 # LICENSE
 
