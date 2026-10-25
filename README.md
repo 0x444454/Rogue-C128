@@ -14,6 +14,13 @@ Ported and enhanced from Classic Rogue 5.4.4: https://github.com/Davidslv/rogue.
 
 Binaries are [here](release/)
 
+## Items and enemies
+
+<details>
+  <summary>Spoiler</summary>
+  <img src="media/rogue_c128_symbols.png" width="304" style="image-rendering: crisp-edges; image-rendering: pixelated;">
+</details>
+
 ### Build details
 
 - Classic Rogue 5.4.4 source code is patched to compile on [Oscar64](https://github.com/drmortalwombat/oscar64) targeting C128.  
@@ -22,13 +29,6 @@ Binaries are [here](release/)
 - Full (optional) color modes.
 - Huge upgraded PETSCII and (optional) 8x8 lifelike icons ;-)
 - Full level map peek (for cheaters, won't tell you the secret key-combo).
-
-### Items and enemies
-
-<details>
-  <summary>Spoiler</summary>
-  <img src="media/rogue_c128_symbols.png" width="304" style="image-rendering: crisp-edges; image-rendering: pixelated;">
-</details>
 
 # LICENSE
 
