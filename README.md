@@ -21,7 +21,7 @@ Binaries are [here](release/)
 - I/O routines are replaced with custom C128 versions.
 - Full (optional) color modes.
 - Huge upgraded PETSCII and (optional) 8x8 "crystal clear" icons ;-)
-- Full level map peek (for cheaters).
+- Full level map peek (for cheaters, at least find the magic key-combo).
 
 # LICENSE
 
