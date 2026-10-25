@@ -6,9 +6,9 @@ Ported and enhanced from Classic Rogue 5.4.4: https://github.com/Davidslv/rogue.
 
 ## Requirements
 
-- A Commodore C128.
+- Commodore C128.
 - 80 column monitor.
-- A disk drive (or drive emulator).
+- Disk drive (or drive emulator).
 
 ## Release files
 
@@ -21,7 +21,7 @@ Binaries are [here](release/)
 - I/O routines are replaced with custom C128 versions.
 - Full (optional) color modes.
 - Huge upgraded PETSCII and (optional) 8x8 lifelike icons ;-)
-- Full level map peek (for cheaters, won't tell you the magic key-combo).
+- Full level map peek (for cheaters, won't tell you the secret key-combo).
 
 # LICENSE
 
