@@ -25,7 +25,7 @@ https://docs-archive.freebsd.org/44doc/usd/30.rogue/paper.pdf
   <img src="media/rogue_c128_symbols.png" width="304" style="image-rendering: crisp-edges; image-rendering: pixelated;">
 </details>
 
-### Build details
+## Build details
 
 - Classic Rogue 5.4.4 source code is patched to compile on [Oscar64](https://github.com/drmortalwombat/oscar64) targeting C128.  
 - Code and some data stay (barely !) in bank 0, while most strings and other structs are moved to bank 1.  
