@@ -54,7 +54,7 @@ Note that the "VGA" mode is actually 640x400 interlaced, so flicker is expected.
 
 ### HDMI
 
-There are different option to convert C128 digital RGBI to HDMI.  
+There are different options to convert C128 digital RGBI to HDMI.  
 
 I use a [RGBtoHDMI](https://github.com/hoglet67/RGBtoHDMI), this is how:
   
