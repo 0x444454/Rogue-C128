@@ -16,6 +16,8 @@ Binaries are [here](release/)
 
 ## Documentation
 
+The original UNIX version doc:
+
 https://docs-archive.freebsd.org/44doc/usd/30.rogue/paper.pdf
 
 ## Items and enemies
