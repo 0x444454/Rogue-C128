@@ -14,6 +14,10 @@ Ported and enhanced from Classic Rogue 5.4.4: https://github.com/Davidslv/rogue.
 
 Binaries are [here](release/)
 
+## Documentation
+
+https://docs-archive.freebsd.org/44doc/usd/30.rogue/paper.pdf
+
 ## Items and enemies
 
 <details>
